@@ -1,0 +1,13 @@
+{
+  "name": "web3-portfolio-tracker",
+  "version": "1.0.0",
+  "main": "portfolio.js",
+  "scripts": {
+    "start": "node portfolio.js"
+  },
+  "dependencies": {
+    "ethers": "^5.7.0",
+    "dotenv": "^16.0.0",
+    "node-fetch": "^2.6.7"
+  }
+}
