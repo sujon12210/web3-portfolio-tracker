@@ -1,0 +1,2 @@
+This project uses public APIs.
+Prices may change often.
